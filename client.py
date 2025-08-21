@@ -9,7 +9,7 @@ import sys
 
 PROGRAM = "AetherTopia"
 DESCRIPTION = "A text-based multiplayer"
-AUTHOR = ""
+AUTHOR = "batubyte"
 VERSION = "0.1.0"
 
 console = Console()
@@ -50,4 +50,4 @@ if __name__ == "__main__":
     except Exception as e:
         error_console.log(f"Error: {e}")
         sys.exit(1)
-      
+        
