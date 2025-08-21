@@ -3,7 +3,6 @@
 from rich.console import Console
 from rich.panel import Panel
 import subprocess
-import argparse
 import textwrap
 import sys
 
